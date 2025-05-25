@@ -1,0 +1,55 @@
+body {
+    font-family:serif;
+    background-color:#537b72;
+    color:white;
+}
+nav{
+    padding:50px;
+}
+nav a{
+    margin:80px;
+    padding:20px;
+    font-size:20px;
+    text-decoration:none;
+    color:white;
+    border:3px solid #5ED0BD;
+    border-radius:10px;
+    background-color:#537b72;
+    border-top: 5px solid rgb(58, 96, 88);
+}
+
+header {
+    background-color:#5ED0BD;
+    display:flex;
+    
+}
+
+.main_img{
+    padding-left:200px;
+}
+
+p{
+    border-top: 5px solid rgb(58, 96, 88); 
+}
+
+article {
+   background-color: rgb(42, 74, 70);
+    padding: 15px 45px 30px 45px;
+    width: 200px;
+    margin: 5px;
+}
+
+header p{
+    text-align: center;
+    font-size:30px;
+    color:rgb(42, 74, 70);
+    
+}
+
+section{
+    display: flex;
+}
+
+p img{
+    margin:20px;
+}
